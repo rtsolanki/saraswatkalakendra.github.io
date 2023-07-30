@@ -12,5 +12,7 @@ nav ul li a{
 }
 .box{
     width: 75%;
+    word-spacing:0.35px;
+    letter-spacing:3px;
 
 }
